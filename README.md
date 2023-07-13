@@ -6,4 +6,5 @@ Key Features:
 Text Preprocessing: The project employs various preprocessing techniques, such as tokenization, stop word removal, stemming, and lemmatization, to clean and standardize text data. This step ensures improved accuracy and consistency during subsequent analysis.
 
 Sentiment Analysis: Leveraging NLP, the project enabled sentiment analysis to determine the overall sentiment expressed in text. It is classified text as positive and negative, providing valuable insights into customer opinions, brand perception, and public sentiment.
+
 This project provides a powerful and versatile toolkit for text data analysis using NLP techniques.
